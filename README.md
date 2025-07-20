@@ -4,7 +4,7 @@
 ### About me :
 
 <p>
-   I'm Manoj Ravichandran, a 21 year old student currently studying at SSN College of Engineering , Chennai. I'm pursuing a Bachelor's degree in Information Technology. I really like coding and I'm experienced (amaeture) in programming languages like  C++ and JavaScript, to name a few. 
+   I'm Manoj Ravichandran, a 21-year-old student currently studying at SSN College of Engineering, Chennai. I'm pursuing a Bachelor's degree in Information Technology. I enjoy coding and have experience (albeit amateur) with programming languages such as C++ and JavaScript, among others. 
    <a href="https://drive.google.com/file/d/1UL9BlAt2LnVWMwI8mEkXBXc2bL781QFF/view?usp=sharing">Resume📄</a>
    </br>
    
