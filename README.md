@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-ravichandran-12b5841b2/">LinkedIn</a> ·
-  <a href="https://github.com/M-A-N-O-J-R">GitHub</a> ·
+  <a href="https://github.com/manojr-12">GitHub</a> ·
   <a href="mailto:manojravichandran12@gmail.com">Email</a>
 </p>
 
