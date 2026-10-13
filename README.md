@@ -2,12 +2,6 @@
   <img width="600" alt="Profile banner" src="https://github.com/M-A-N-O-J-R/M-A-N-O-J-R/blob/main/text1.gif" />
 </p>
 
-<h1 align="center">Hi, I'm Manoj Ravichandran 👋</h1>
-
-<p align="center">
-  Software Development Engineer at Samsung, working on distributed systems, microservices, mobile apps, and performance optimization.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-ravichandran-12b5841b2/">LinkedIn</a> ·
   <a href="https://github.com/M-A-N-O-J-R">GitHub</a> ·
